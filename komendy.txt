@@ -1,0 +1,3 @@
+Run 'HTML-validate' with:
+
+npm exec html-validate yourfile.html

@@ -1,6 +1,9 @@
 font-family: "Caveat", cursive;
 font-family: "Playfair Display", serif;
 
+h1 {
+  color: red;
+}
 .artists {
   font-family: Playfair Display;
   font-style: italic;
